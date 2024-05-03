@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">prm_p1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textview">TextView</string>
+    <string name="addnote">addNote</string>
+    <string name="login">Logowanie</string>
+    <string name="email">Email</string>
+    <string name="password">Hasło</string>
+    <string name="register">Rejestracja</string>
+    <string name="nie_masz_konta">Nie masz konta?</string>
+    <string name="login2">Zaloguj się</string>
+    <string name="register2">Zarejestruj się</string>
+    <string name="appTitle">Notatki</string>
+    <string name="masz_konto">Masz już konto?</string>
+    <string name="tytul">Tytuł</string>
+    <string name="opis">Opis</string>
+    <string name="noteapp">NoteApp</string>
+</resources>
